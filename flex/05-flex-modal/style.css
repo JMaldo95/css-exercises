@@ -24,11 +24,9 @@ body {
   display: flex;
   padding: 8px;
   gap: 8px;
-  /* background-color: lightblue; */
 }
 
 .alert {
-  /* background-color: lightgrey; */
   margin-right: 8px;
 }
 
@@ -46,28 +44,19 @@ body {
 }
 
 .alert-head {
-  /* background-color: lightcoral; */
   display: flex;
   gap: 8px;
   padding: 0px;
-
 }
 
 .header {
-  /* background-color: lightgreen; */
   flex: 1 0 auto;
   font-size: large;
   font-weight: bold;
 }
 
-
-.alert-contents {
-  /* background-color: lightseagreen; */
-}
-
 .text {
   margin: 8px 0px 16px 0px;
-
 }
 
 
@@ -82,7 +71,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* background-color: lightsalmon; */
 }
 
 button {
