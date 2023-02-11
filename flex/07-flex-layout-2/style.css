@@ -19,7 +19,6 @@ body {
 
 .content {
   display: flex;
-  flex-direction: row;
   flex: 1 0 auto;
 }
 
@@ -59,10 +58,8 @@ a {
 
 .card-section {
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
   padding: 32px;
-  gap: 32px;
 
 }
 
@@ -72,7 +69,7 @@ a {
   border-radius: 4px;
   flex: 0 1 300px;
   padding: 16px;
-  
+  margin: 16px;
 
 }
 
